@@ -1,0 +1,7 @@
+GPIO_program.c:17:5:GPIO_VidSetPinDirection	24	static
+GPIO_program.c:43:5:GPIO_VidSetPinValue	24	static
+GPIO_program.c:62:5:GPIO_u8GetPinValue	24	static
+GPIO_program.c:71:5:GPIO_u8ToglPinValue	24	static
+GPIO_program.c:86:5:GPIO_VidSetPortDirection	24	static
+GPIO_program.c:105:5:GPIO_VidSetPortValue	24	static
+GPIO_program.c:124:5:MGPIO_u16GetPortValue	24	static

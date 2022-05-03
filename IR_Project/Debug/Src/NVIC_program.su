@@ -1,0 +1,6 @@
+NVIC_program.c:14:4:MNVIC_u8EnablePeripheral	24	static
+NVIC_program.c:30:4:MNVIC_u8DisablePeripheral	24	static
+NVIC_program.c:46:4:MNVIC_u8SetPendingFlag	24	static
+NVIC_program.c:62:4:MNVIC_u8ClearPendingFlag	24	static
+NVIC_program.c:78:4:MNVIC_u8GetActiveFlag	24	static
+NVIC_program.c:94:4:MNVIC_u8SetPriority	24	static

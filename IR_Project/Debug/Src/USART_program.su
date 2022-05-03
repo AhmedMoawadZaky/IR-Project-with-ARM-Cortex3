@@ -1,0 +1,8 @@
+USART_program.c:11:6:MUSART1_voidInit	4	static
+USART_program.c:32:6:MUSART1_voidTransmit	16	static
+USART_program.c:42:4:MUSART1_u8Receive	16	static
+USART_program.c:52:6:MUSART2_voidInit	4	static
+USART_program.c:73:6:MUSART2_voidTransmit	24	static
+USART_program.c:82:4:MUSART2_u8Receive	16	static
+USART_program.c:93:6:MUSART2_VidSetCallBack	16	static
+USART_program.c:99:6:USART2_IRQHandler	8	static
